@@ -27,8 +27,8 @@
     </dependencySets>
     <files>
         <file>
-            <source>target/agent-demo.jar</source>
-            <destName>agent-demo.jar</destName>
+            <source>target/one-agent-demo.jar</source>
+            <destName>one-agent-demo.jar</destName>
         </file>
         <file>
             <source>src/main/plugin.properties</source>
